@@ -4,9 +4,6 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adf-dev-eus-adf"
-		},
-		"blob_connectionString": {
-			"value": ""
 		}
 	}
 }
